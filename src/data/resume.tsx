@@ -282,7 +282,7 @@ export const DATA = {
     {
   title: "AI-Powered Rural Governance Assistant",
   href: "https://github.com/JoshiDeepak08/Panchayat-Sahayika",
-  dates: "",
+  dates: "https://youtu.be/SvaaQusU9nU?si=S9WfEV2PBO07HTdO",
   active: true,
   description:
     "A bilingual (Hindi + English) AI assistant for rural governance enabling scheme lookup, Panchayat-wise data retrieval, and intelligent recommendations. Features voice input, chat history, multi-message memory, dynamic UI, and high-accuracy semantic search over government datasets using Groq LLaMA + Qdrant.",
