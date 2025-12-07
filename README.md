@@ -10,6 +10,9 @@ This portfolio showcases my projects, skills, experiences, and achievements with
 
 **Website:** [https://your-portfolio-link-here.com]([https://your-portfolio-link-here.com](https://portfolio-main-tan-three.vercel.app/))
 
+<img width="538" height="585" alt="image" src="https://github.com/user-attachments/assets/c5411464-1bd4-4ffc-b7d2-406d5ccebd84" />
+
+
 ---
 
 # **Table of Contents**
@@ -26,7 +29,6 @@ This portfolio showcases my projects, skills, experiences, and achievements with
 7. [Pipeline / Rendering Flow](#pipeline--rendering-flow)
 8. [Challenges & Trade-Offs](#challenges--trade-offs)
 9. [Performance & Deployment Notes](#performance--deployment-notes)
-10. [Improvements (Prioritized)](#improvements-prioritized)
 
 ---
 
