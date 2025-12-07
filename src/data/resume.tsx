@@ -141,58 +141,9 @@ export const DATA = {
     "Created technical and SEO-optimized content for Quadra Security’s website, focusing on CCTV systems, surveillance solutions, access control, alarm systems, and IP-based security products. Wrote blogs, product descriptions, and landing page content targeting residential, commercial, and industrial clients. Improved clarity and engagement of website copy, while ensuring accuracy of technical details and alignment with brand messaging. Contributed to enhancing the online presence and customer understanding of modern security technologies.",
 },
 
-//     {
-//   company: "Quadra Security",
-//   href: "https://www.quadrasecurity.com/",
-//   badges: ["Program Manager Intern"],
-//   location: "Gurugram, Haryana, IN",
-//   title: "Program Manager Intern",
-//   logoUrl: "/quadra_security_logo.png", // add logo in /public with this name
-//   start: "Mar 2025",
-//   end: "Sept 2025",
-//   description:
-//     "Led program operations and coordinated multiple security, IT and AI/ML initiatives, ensuring smooth execution and timely delivery of projects. Managed workflows across cross-functional teams and interns, improved documentation processes, and streamlined communication to enhance project efficiency. Supported development and deployment of security solutions—including CCTV, access control, and automation systems—while assisting leadership in planning, tracking, and reporting ongoing technical initiatives.",
-// },
-    // {
-    //   company: "Kalpas Innovations Pvt. Ltd.",
-    //   href: "https://kalpas.in/",
-    //   badges: ["Intern"],
-    //   location: "Hubballi Karnataka, IN",
-    //   title: "React Developer",
-    //   logoUrl: "/kalpas_innovations_logo.jpeg",
-    //   start: "May 2021",
-    //   end: "Jul 2021",
-    //   description:
-    //     "Developed user-facing features using React.js and created reusable components. Improved performance and usability by editing and optimizing existing code. Worked closely with designers and the backend team to ensure smooth project development.",
-    // },
-    // {
-    //   company: "Team 4 Progress Technologies",
-    //   href: "https://www.team4progress.com/",
-    //   badges: ["Intern"],
-    //   location: " New Delhi, IN",
-    //   title: "Web Developer",
-    //   logoUrl: "/team-4-progress.jpeg",
-    //   start: "Oct 2020",
-    //   end: "Dec 2020",
-    //   description:
-    //     "Worked in the Internal Product Development team, creating browser extensions to make internal tasks easier. Integrated APIs into the extensions to add more features and improve functionality",
-    // },
+
   ],
   certification: [
-  //   {
-  //   title: "2nd Place – Face Guardian (IIT Roorkee, Cognizance 2024)",
-  //   href: "https://hyperstack.id/credential/65cf7829-653d-4953-a9d0-7e64236a0b6d?view=recipient",
-  //   logoUrl: "/face_guardian_certificate.png", // put certificate image or a trophy icon in /public
-  //   start: "",
-  //   end: "",
-  // },
-  // {
-  //   title: "2nd Place – ThermaOracle (IIT Roorkee, Cognizance 2024)",
-  //   href: "https://hyperstack.id/credential/602e9772-f704-465c-a6d7-fa65fbadbd94?view=recipient",
-  //   logoUrl: "/thermaoracle_certificate.png", // put certificate image or a trophy icon in /public
-  //   start: "",
-  //   end: "",
-  // },
 {
   title: "2nd Place – Utkarsh 1.0 (UTU State-Level Hackathon, Chatbot Category)",
   href: "https://drive.google.com/file/d/1xKlt0mlxHvPnGpSO4YZcbGZepC4vIbFO/view?usp=drivesdk", // add certificate URL later if you get one
@@ -216,6 +167,45 @@ export const DATA = {
   //   },
   // ],
   projects: [
+
+    {
+  title: "AI Product Discovery Assistant",
+  href: "https://product-discovery-assistant-ochre.vercel.app/",
+  dates: "",
+  active: true,
+  description:
+    "An AI-powered ecommerce product recommendation system with full data-scraping pipeline, PostgreSQL storage, Qdrant semantic search, and Groq Llama-3.1-8B reasoning. Supports abstract user queries, multi-step intent interpretation, and product re-ranking through a custom RAG architecture. Includes a React + Tailwind storefront, product detail pages, and an interactive chat interface with real-time AI-recommended product cards.",
+  technologies: [
+    "FastAPI",
+    "React",
+    "Tailwind",
+    "PostgreSQL",
+    "Qdrant",
+    "Neo4j",
+    "Groq Llama-3.1-8B",
+    "Sentence-Transformers",
+    "ScraperAPI",
+    "BeautifulSoup",
+    "Python",
+    "NLP",
+    "RAG"
+  ],
+  links: [
+    {
+      type: "Website",
+      href: "https://product-discovery-assistant-ochre.vercel.app/",
+      icon: <Icons.globe className="size-3" />,
+    },
+    {
+      type: "Github",
+      href: "https://github.com/JoshiDeepak08/Product-Discovery-Assistant",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "/product_assistant.png", // optional placeholder
+  video: "",
+},
+    
     {
   title: "AI-Powered Internship Query Chatbot",
   href: "https://huggingface.co/spaces/joshi-deepak08/Internship_extraction_chatbot-Sahayak",
@@ -281,8 +271,8 @@ export const DATA = {
 
     {
   title: "AI-Powered Rural Governance Assistant",
-  href: "https://github.com/JoshiDeepak08/Panchayat-Sahayika",
-  dates: "https://youtu.be/SvaaQusU9nU?si=S9WfEV2PBO07HTdO",
+  href: "https://youtu.be/SvaaQusU9nU?si=S9WfEV2PBO07HTdO",
+  dates: "",
   active: true,
   description:
     "A bilingual (Hindi + English) AI assistant for rural governance enabling scheme lookup, Panchayat-wise data retrieval, and intelligent recommendations. Features voice input, chat history, multi-message memory, dynamic UI, and high-accuracy semantic search over government datasets using Groq LLaMA + Qdrant.",
@@ -301,7 +291,7 @@ export const DATA = {
   links: [
     {
       type: "Website",
-      href: "",
+      href: "https://youtu.be/SvaaQusU9nU?si=S9WfEV2PBO07HTdO",
       icon: <Icons.globe className="size-3" />,
     },
     {
@@ -348,88 +338,7 @@ export const DATA = {
   video: "",
 },
 
-    // {
-    //   title: "Swift Poll",
-    //   href: "https://swift-poll-app.vercel.app/",
-    //   dates: "",
-    //   active: true,
-    //   description:
-    //     "An instant and anonymous poll creation portal, that lets you create polls instantly with real-time stats update",
-    //   technologies: [
-    //     "React.js",
-    //     "MongoDB",
-    //     "TailwindCSS",
-    //     "Node.js",
-    //     "Socket.io",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Website",
-    //       href: "https://swift-poll-app.vercel.app/",
-    //       icon: <Icons.globe className="size-3" />,
-    //     },
-    //     {
-    //       type: "Source",
-    //       href: "https://github.com/kartikkpawar/swift-poll-app",
-    //       icon: <Icons.github className="size-3" />,
-    //     },
-    //   ],
-    //   image:
-    //     "https://cloud.appwrite.io/v1/storage/buckets/659a8f55aafdacbfba4b/files/659eba77e07d43644025/view?project=659a8e6fdef13624c6fb",
-    //   video: "",
-    // },
-    // {
-    //   title: "Cypress (Notion Clone)",
-    //   href: "https://github.com/kartikkpawar/cypress-notion",
-    //   dates: "",
-    //   active: false,
-    //   description:
-    //     "Real-time collaboration platform. Supporting real-time editor, multiple cursors, real-time presence, payments powered by STRIPE PAYMENTS Database and real-time presence managed by Supabase",
-    //   technologies: [
-    //     "Next.js",
-    //     "Typescript",
-    //     "PostgreSQL",
-    //     "Drizzle",
-    //     "TailwindCSS",
-    //     "Shadcn UI",
-    //     "Stripe",
-    //     "Socket.Io",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Source",
-    //       href: "https://github.com/kartikkpawar/cypress-notion",
-    //       icon: <Icons.github className="size-3" />,
-    //     },
-    //   ],
-    //   image:
-    //     "https://cloud.appwrite.io/v1/storage/buckets/659a8f55aafdacbfba4b/files/65ba32ea94ec0bccaa2a/view?project=659a8e6fdef13624c6fb",
-    //   video: "",
-    // },
-    // {
-    //   title: "Binge Guide",
-    //   href: "https://bingegui.web.app/",
-    //   active: true,
-    //   description:
-    //     "A content discovery platform just like IMDB where user can see TV shows, and movies based on their search or by trend/upcoming/related and add it to their watchlist or favourites",
-    //   technologies: ["React.js", "Firebase", "TailwindCSS", "Redux Toolkit"],
-    //   links: [
-    //     {
-    //       type: "Website",
-    //       href: "https://bingegui.web.app/",
-    //       icon: <Icons.globe className="size-3" />,
-    //     },
-    //     {
-    //       type: "Source",
-    //       href: "https://github.com/kartikkpawar/Binge-Guide",
-    //       icon: <Icons.github className="size-3" />,
-    //     },
-    //   ],
-    //   image:
-    //     "https://cloud.appwrite.io/v1/storage/buckets/659a8f55aafdacbfba4b/files/659d6d0ca4e7abfe2130/view?project=659a8e6fdef13624c6fb",
-    //   dates: "",
-    //   video: "",
-    // },
+   
   ],
   upcomingProjects: [
     {
