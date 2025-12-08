@@ -153,8 +153,6 @@ export const DATA = {
   description:
     "Secured 2nd place at the UTU State-Level Hackathon with our project 'Sahayak' — a personalized job-search chatbot that delivers role-matched opportunities directly in chat, eliminating the need for manual filtering or searching across portals.",
 },
-
-
   ],
   // education: [
   //   {
@@ -206,7 +204,8 @@ export const DATA = {
   video: "",
 },
 
-     {
+    
+    {
   title: "AI-Powered Rural Governance Assistant",
   href: "https://youtu.be/SvaaQusU9nU?si=S9WfEV2PBO07HTdO",
   dates: "",
@@ -241,7 +240,8 @@ export const DATA = {
   video: "",
 },
 
-        {
+        
+    {
   title: "SEO Internal Link Suggestion Tool",
   href: "https://huggingface.co/spaces/joshi-deepak08/Seo-internal-linker",
   dates: "",
@@ -274,6 +274,7 @@ export const DATA = {
   image: "/seo_interlinking.png", // optional placeholder, can be empty
   video: "",
 },
+
     
     {
   title: "AI-Powered Internship Query Chatbot",
@@ -306,6 +307,7 @@ export const DATA = {
   video: "",
 },
 
+    
     {
   title: "Multimodal RAG: Local Document & Audio Retrieval System",
   href: "https://huggingface.co/spaces/joshi-deepak08/RAG_based_offline_chatbot",
@@ -337,9 +339,7 @@ export const DATA = {
   image: "/rag_system.png", // add image in /public OR leave empty
   video: "",
 },
-
-   
-   
+  
   ],
   upcomingProjects: [
     {
