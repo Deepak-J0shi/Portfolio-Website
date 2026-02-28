@@ -85,9 +85,9 @@ export const DATA = {
       //   navbar: true,
       // },
       
-      HuggingFace: {
-  name: "HuggingFace",
-  url: "https://huggingface.co/joshi-deepak08",
+      AuthorsPage: {
+  name: "AuthorsPage",
+  url: "https://authors-page-iota.vercel.app/",
   icon: Icons.huggingface, 
   navbar: true,
 },
@@ -129,7 +129,18 @@ export const DATA = {
     "Led the development of a complete geospatial analysis pipeline using ERA5 climate datasets and Landsat 8–9 satellite imagery to study long-term climate variability and urban heat island patterns around Nainital. Processed and cleaned multi-year NetCDF and GRIB data, applied statistical techniques such as Theil–Sen trend estimation and Mann–Kendall tests, and generated spatial maps for temperature, wind, and precipitation. Automated workflows using Python, xarray, rioxarray, and Google Earth Engine, improving research efficiency and data reproducibility. Delivered insights that support environmental monitoring and data-driven decision-making for Himalayan regions.",
 },
 
-
+{
+  company: "LinkBuilding.Company",
+  href: "https://linkbuilding.company",
+  badges: ["SEO Outreach Intern (Freelance)"],
+  location: "Remote",
+  title: "SEO Outreach Intern",
+  logoUrl: "/linkbuilding_company_logo.png",
+  start: "Feb 2026",
+  end: "",
+  description:
+    "Working as a performance-driven SEO Outreach Intern, contributing to global link building campaigns for SaaS, e-commerce, and digital brands. Responsible for identifying high-quality backlink opportunities through structured prospecting using Ahrefs and advanced Google search operators. Research and identify website editors, content managers, and decision-makers using Apollo and other contact discovery tools. Execute personalized cold outreach campaigns via BuzzStream, maintaining a daily target of 70–80 emails while strictly following campaign SOPs and quality standards. Track outreach metrics including response rates, prospect quality, and campaign performance to ensure scalable and ethical link acquisition. Gained hands-on experience in white-hat outreach strategies, CRM-based campaign management, and data-driven SEO operations.",
+},
 {
   company: "Quadra Security",
   href: "https://quadrasecurity.in", // update if needed
