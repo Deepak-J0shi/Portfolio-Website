@@ -132,7 +132,7 @@ export const DATA = {
 {
   company: "LinkBuilding.Company",
   href: "https://linkbuilding.company",
-  badges: ["SEO Outreach Intern (Freelance)"],
+  badges: ["SEO Outreach Intern"],
   location: "Remote",
   title: "SEO Outreach Intern",
   logoUrl: "/linkbuilding_company_logo.png",
