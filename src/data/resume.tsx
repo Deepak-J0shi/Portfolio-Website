@@ -217,7 +217,34 @@ export const DATA = {
   video: "",
 },
 
-    
+
+{
+  title: "Mobile Traffic Prediction & Time-Series Forecasting",
+  href: "https://github.com/Shireenrawat07/Mobile_Traffic_Prediction",
+  dates: "",
+  active: true,
+  description:
+    "A time-series forecasting system for predicting mobile network traffic patterns using historical usage data. Implemented data preprocessing, feature extraction, and machine learning models to capture temporal trends and forecast future demand. Demonstrates practical applications in telecom optimization, load balancing, and smart infrastructure planning.",
+  technologies: [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Time Series Analysis",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  links: [
+    {
+      type: "Github",
+      href: "https://github.com/Shireenrawat07/Mobile_Traffic_Prediction",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "/traffic_prediction.png",
+  video: "",
+},
+
     {
   title: "AI-Powered Rural Governance Assistant",
   href: "https://youtu.be/SvaaQusU9nU?si=S9WfEV2PBO07HTdO",
