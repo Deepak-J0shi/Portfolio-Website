@@ -220,7 +220,7 @@ export const DATA = {
 
 {
   title: "Mobile Traffic Prediction & Time-Series Forecasting",
-  href: "https://github.com/Shireenrawat07/Mobile_Traffic_Prediction",
+  href: "https://github.com/Deepak-J0shi/Federated-Learning-based-Mobile-Traffic-Prediction",
   dates: "",
   active: true,
   description:
