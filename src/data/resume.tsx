@@ -237,7 +237,7 @@ export const DATA = {
   links: [
     {
       type: "Github",
-      href: "https://github.com/Shireenrawat07/Mobile_Traffic_Prediction",
+      href: "https://github.com/Deepak-J0shi/Federated-Learning-based-Mobile-Traffic-Prediction",
       icon: <Icons.github className="size-3" />,
     },
   ],
